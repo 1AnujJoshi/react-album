@@ -21,7 +21,7 @@ You can learn more in the [Create React App documentation](https://facebook.gith
 To learn React, check out the [React documentation](https://reactjs.org/).
 
 ### Folder Structure
-
+`
 |-src
 |  |-api
 |      |-api.js
@@ -40,4 +40,4 @@ To learn React, check out the [React documentation](https://reactjs.org/).
 |  |-index.js
 |  |-package.json
 |  |-README.md
-
+`
