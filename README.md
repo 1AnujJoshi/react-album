@@ -20,24 +20,3 @@ You can learn more in the [Create React App documentation](https://facebook.gith
 
 To learn React, check out the [React documentation](https://reactjs.org/).
 
-### Folder Structure
-`
-###    |-src\
-###    |  |-api\
-###    |      |-api.js\
-###    |  |-components\
-###    |        |-AddAlbumForm.js\
-###    |        |-AlbumItem.js\
-###    |        |-AlbumPhotos.js\
-###    |        |-Form.js\
-###    |        |-Navbar.js\
-###    |        |-UpdateForm.js\
-###    |  |-pages\
-###    |      |-AlbumList.js\
-###    |      |-Home.js\
-###    |  |-app.js\
-###    |  |-index.css\
-###    |  |-index.js\
-###    |  |-package.json\
-###    |  |-README.md\
-`
