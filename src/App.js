@@ -8,7 +8,7 @@ function App() {
     <BrowserRouter>
       <Navbar />
       <Routes>
-        <Route path="/" element={<Home />} />
+        <Route path="/react-album" element={<Home />} />
         <Route path="/albums/:id/photos" element={<AlbumList />} />
       </Routes>
     </BrowserRouter>
