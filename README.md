@@ -21,4 +21,4 @@ You can learn more in the [Create React App documentation](https://facebook.gith
 To learn React, check out the [React documentation](https://reactjs.org/).
 
 ## Hosted URL
-https://1anujjoshi.github.io/react-album/
+  https://1anujjoshi.github.io/react-album/
