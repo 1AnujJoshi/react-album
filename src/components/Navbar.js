@@ -15,7 +15,7 @@ const Navbar = () => {
       }}
     >
       <div>
-        <Link to="/">
+        <Link to="/react-album">
           <HomeIcon sx={{ fontSize: 40, color: "#1976d2" }} />
         </Link>
       </div>
