@@ -22,10 +22,10 @@ To learn React, check out the [React documentation](https://reactjs.org/).
 
 ##Features
 
-1- Fetch and shows albums from the api - https://jsonplaceholder.typicode.com/albums.
-2- Add an album, makes a POST call to the above url and saves the album in react state.
-3- Update the album.
-4- Delete an album.
+1- Fetch and shows albums from the api - https://jsonplaceholder.typicode.com/albums .\
+2- Add an album, makes a POST call to the above url and saves the album in react state.\
+3- Update the album.\
+4- Delete an album.\
  (All the requests are dummy, you won’t be able to add albums to the server. But the request is valid and will send you some data)
 
 
