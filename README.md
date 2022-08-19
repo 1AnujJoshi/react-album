@@ -20,5 +20,14 @@ You can learn more in the [Create React App documentation](https://facebook.gith
 
 To learn React, check out the [React documentation](https://reactjs.org/).
 
+##Features
+
+-Fetch and shows albums from the api - https://jsonplaceholder.typicode.com/albums.
+-Add an album, makes a POST call to the above url and saves the album in react state.
+-Update the album.
+-Delete an album.
+ (All the requests are dummy, you won’t be able to add albums to the server. But the request is valid and will send you some data)
+
+
 ## Hosted URL
   https://1anujjoshi.github.io/react-album/
